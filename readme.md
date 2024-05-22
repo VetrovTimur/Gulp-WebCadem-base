@@ -1,11 +1,11 @@
-# Gulp сборка для верстки сайтов от [ВебКадеми](https://webcademy.ru)
+# Gulp WebCademy v.3.1
 
 - HTML,
 - SCSS,
 - Gulp,
 - JS
 
-Документация и примеры использования внутри.
+**Документация и примеры использования внутри.**
 
 Установить зависимости:
 ```
@@ -22,4 +22,4 @@ gulp
 gulp docs
 ```
 
-[Смотреть демо](https://user.github.io/repo/)
+[Смотреть демо](https://vetrovtimur.github.io/Gulp-WebCadem-base/)
